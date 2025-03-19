@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|d:\\hocki4\\.net\\home-work\\tuan-3\\baitaptuan2\\frmdanhsachsvthilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:frmdanhsachsvthilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptdanhsachsvthilai.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:rptdanhsachsvthilai.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frmsvduthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:frmsvduthi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptbangsvduthi.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:rptbangsvduthi.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frminbangdiemhocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:frminbangdiemhocky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptbangdiemsvhocky.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:rptbangdiemsvhocky.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\baitaptuan2.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{45C653BD-BA20-4985-A2B1-4A62D2F80EF9}|BaiTapTuan2.csproj|solutionrelative:baitaptuan2.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDanhSachSVThiLai.cs [Design]",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frmDanhSachSVThiLai.cs",
+              "RelativeDocumentMoniker": "frmDanhSachSVThiLai.cs",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frmDanhSachSVThiLai.cs [Design]",
+              "RelativeToolTip": "frmDanhSachSVThiLai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:26:50.563Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rptDanhSachSVThiLai.rpt",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptDanhSachSVThiLai.rpt",
+              "RelativeDocumentMoniker": "rptDanhSachSVThiLai.rpt",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptDanhSachSVThiLai.rpt",
+              "RelativeToolTip": "rptDanhSachSVThiLai.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-12T17:13:49.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSVDuThi.cs [Design]",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frmSVDuThi.cs",
+              "RelativeDocumentMoniker": "frmSVDuThi.cs",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frmSVDuThi.cs [Design]",
+              "RelativeToolTip": "frmSVDuThi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:12:54.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rptBangSVDuThi.rpt",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptBangSVDuThi.rpt",
+              "RelativeDocumentMoniker": "rptBangSVDuThi.rpt",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptBangSVDuThi.rpt",
+              "RelativeToolTip": "rptBangSVDuThi.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-12T17:03:29.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:01:55.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmInBangDiemHocKy.cs [Design]",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frmInBangDiemHocKy.cs",
+              "RelativeDocumentMoniker": "frmInBangDiemHocKy.cs",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\frmInBangDiemHocKy.cs [Design]",
+              "RelativeToolTip": "frmInBangDiemHocKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:00:46.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "rptBangDiemSVHocKy.rpt",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptBangDiemSVHocKy.rpt",
+              "RelativeDocumentMoniker": "rptBangDiemSVHocKy.rpt",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\rptBangDiemSVHocKy.rpt",
+              "RelativeToolTip": "rptBangDiemSVHocKy.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-12T16:52:02.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\DangKy.cs",
+              "RelativeToolTip": "DangKy.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAADgv7MAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:47:09.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaiTapTuan2.dbml",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\BaiTapTuan2.dbml",
+              "RelativeDocumentMoniker": "BaiTapTuan2.dbml",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\BaiTapTuan2.dbml",
+              "RelativeToolTip": "BaiTapTuan2.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-03-12T15:46:36.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\SinhVien.cs",
+              "RelativeDocumentMoniker": "SinhVien.cs",
+              "ToolTip": "D:\\HocKi4\\.Net\\Home-work\\Tuan-3\\BaiTapTuan2\\SinhVien.cs [Design]",
+              "RelativeToolTip": "SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:02:49.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BaiTapTuan2">
+  <DataContextMoniker Name="/BaiTapTuan2DataContext" />
+  <nestedChildShapes>
+    <classShape Id="fb12e770-cdcd-420d-9a01-ff5db766cdc0" absoluteBounds="3.75, 2.375, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BaiTapTuan2DataContext/DANGKY" />
+      <nestedChildShapes>
+        <elementListCompartment Id="766cf3c3-99f0-49ac-a54b-0947157c0c39" absoluteBounds="3.765, 2.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="15e0735e-4942-4155-babb-c943bd96944e" absoluteBounds="1, 1.25, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/BaiTapTuan2DataContext/MONHOC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cb7db663-b6f4-4105-9f94-794a0a405b9d" absoluteBounds="1.0150000000000001, 1.71, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7a023189-1695-4a2b-b005-bba83a4fc650" absoluteBounds="1, 3.625, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/BaiTapTuan2DataContext/SINHVIEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a29cb127-ab9c-4b8e-87fb-f0b41ae0345c" absoluteBounds="1.0150000000000001, 4.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3 : 2.60179768880208); (3.75 : 2.60179768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BaiTapTuan2DataContext/MONHOC/MONHOC_DANGKY" />
+      <nodes>
+        <classShapeMoniker Id="15e0735e-4942-4155-babb-c943bd96944e" />
+        <classShapeMoniker Id="fb12e770-cdcd-420d-9a01-ff5db766cdc0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3 : 3.98159912109375); (3.75 : 3.98159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BaiTapTuan2DataContext/SINHVIEN/SINHVIEN_DANGKY" />
+      <nodes>
+        <classShapeMoniker Id="7a023189-1695-4a2b-b005-bba83a4fc650" />
+        <classShapeMoniker Id="fb12e770-cdcd-420d-9a01-ff5db766cdc0" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BaiTapTuan2" Class="BaiTapTuan2DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-6LE6PT2\SQLEXPRESS;Initial Catalog=BaiTapTuan2;Integrated Security=True;Encrypt=False" SettingsObjectName="BaiTapTuan2.Properties.Settings" SettingsPropertyName="BaiTapTuan2ConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DANGKY" Member="DANGKies">
+    <Type Name="DANGKY">
+      <Column Name="MaSV" Type="System.String" DbType="NVarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MaMH" Type="System.String" DbType="NVarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DiemGK" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DiemCK" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="DiemDT" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="GhiChu" Type="System.String" DbType="NVarChar(400)" CanBeNull="true" />
+      <Association Name="MONHOC_DANGKY" Member="MONHOC" ThisKey="MaMH" OtherKey="MaMH" Type="MONHOC" IsForeignKey="true" />
+      <Association Name="SINHVIEN_DANGKY" Member="SINHVIEN" ThisKey="MaSV" OtherKey="MaSV" Type="SINHVIEN" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MONHOC" Member="MONHOCs">
+    <Type Name="MONHOC">
+      <Column Name="MaMH" Type="System.String" DbType="NVarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenHM" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="SoTC" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="HocKy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="MONHOC_DANGKY" Member="DANGKies" ThisKey="MaMH" OtherKey="MaMH" Type="DANGKY" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SINHVIEN" Member="SINHVIENs">
+    <Type Name="SINHVIEN">
+      <Column Name="MaSV" Type="System.String" DbType="NVarChar(15) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HoTen" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Column Name="LopHoc" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Association Name="SINHVIEN_DANGKY" Member="DANGKies" ThisKey="MaSV" OtherKey="MaSV" Type="DANGKY" />
+    </Type>
+  </Table>
+</Database>
