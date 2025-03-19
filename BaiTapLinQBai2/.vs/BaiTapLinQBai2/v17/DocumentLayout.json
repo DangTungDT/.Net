@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocKi4\\.Net\\DangThanhTung_Tuan1\\BaiTapLinQBai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BaiTapLinQBai2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C8E733-CF57-4EBE-963A-D235502D4E95}|BaiTapLinQBai2.csproj|d:\\hocki4\\.net\\dangthanhtung_tuan1\\baitaplinqbai2\\dabasebai2.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{D7C8E733-CF57-4EBE-963A-D235502D4E95}|BaiTapLinQBai2.csproj|solutionrelative:dabasebai2.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C8E733-CF57-4EBE-963A-D235502D4E95}|BaiTapLinQBai2.csproj|d:\\hocki4\\.net\\dangthanhtung_tuan1\\baitaplinqbai2\\frmkhohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7C8E733-CF57-4EBE-963A-D235502D4E95}|BaiTapLinQBai2.csproj|solutionrelative:frmkhohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C8E733-CF57-4EBE-963A-D235502D4E95}|BaiTapLinQBai2.csproj|d:\\hocki4\\.net\\dangthanhtung_tuan1\\baitaplinqbai2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaiTapLinQBai2",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\DangThanhTung_Tuan1\\BaiTapLinQBai2\\BaiTapLinQBai2.csproj",
+              "RelativeDocumentMoniker": "BaiTapLinQBai2.csproj",
+              "ToolTip": "D:\\HocKi4\\.Net\\DangThanhTung_Tuan1\\BaiTapLinQBai2\\BaiTapLinQBai2.csproj",
+              "RelativeToolTip": "BaiTapLinQBai2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-19T16:09:19.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DabaseBai2.dbml",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\DangThanhTung_Tuan1\\BaiTapLinQBai2\\DabaseBai2.dbml",
+              "RelativeDocumentMoniker": "DabaseBai2.dbml",
+              "ToolTip": "D:\\HocKi4\\.Net\\DangThanhTung_Tuan1\\BaiTapLinQBai2\\DabaseBai2.dbml",
+              "RelativeToolTip": "DabaseBai2.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-03-19T15:40:42.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmKhoHang.cs [Design]",
+              "DocumentMoniker": "D:\\HocKi4\\.Net\\DangThanhTung_Tuan1\\BaiTapLinQBai2\\frmKhoHang.cs",
+              "RelativeDocumentMoniker": "frmKhoHang.cs",
+              "ToolTip": "D:\\HocKi4\\.Net\\DangThanhTung_Tuan1\\BaiTapLinQBai2\\frmKhoHang.cs [Design]",
+              "RelativeToolTip": "frmKhoHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T14:53:46.811Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

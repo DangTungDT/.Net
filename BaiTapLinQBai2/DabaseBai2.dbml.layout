@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DabaseBai2">
+  <DataContextMoniker Name="/DabaseBai2DataContext" />
+  <nestedChildShapes>
+    <classShape Id="2de22f21-db85-47c3-b991-375ca5665ea2" absoluteBounds="5.5, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/DabaseBai2DataContext/ChiTietPB" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3e0cdd2a-9a5e-47c0-9c39-3c6129021e10" absoluteBounds="5.515, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5ac1ec94-f3c1-4ff5-afa1-9e40f9af1d99" absoluteBounds="3.5, 4.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DabaseBai2DataContext/HangHoa" />
+      <nestedChildShapes>
+        <elementListCompartment Id="144b9814-0315-43a6-a8bd-27a9fe88d206" absoluteBounds="3.515, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0a00d15b-b081-4920-bd21-d70572d288b0" absoluteBounds="0.75, 6.375, 2, 1.5785953776041675">
+      <DataClassMoniker Name="/DabaseBai2DataContext/KhoHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d4d51c99-1f05-4a7f-9441-348148b39a3e" absoluteBounds="0.765, 6.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b37793d1-cc87-4783-8bd4-b1838074d764" absoluteBounds="3.5, 6.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DabaseBai2DataContext/PhanBo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f453d5fb-e1d8-432c-9632-a054b07bf73b" absoluteBounds="3.515, 6.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.46875 : 4.25); (4.46875 : 2.16429768880208); (5.5 : 2.16429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DabaseBai2DataContext/HangHoa/HangHoa_ChiTietPB" />
+      <nodes>
+        <classShapeMoniker Id="5ac1ec94-f3c1-4ff5-afa1-9e40f9af1d99" />
+        <classShapeMoniker Id="2de22f21-db85-47c3-b991-375ca5665ea2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.19314697265625); (6.53125 : 7.19314697265625); (6.53125 : 2.95359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DabaseBai2DataContext/PhanBo/PhanBo_ChiTietPB" />
+      <nodes>
+        <classShapeMoniker Id="b37793d1-cc87-4783-8bd4-b1838074d764" />
+        <classShapeMoniker Id="2de22f21-db85-47c3-b991-375ca5665ea2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 7.19314697265625); (3.5 : 7.19314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DabaseBai2DataContext/KhoHang/KhoHang_PhanBo" />
+      <nodes>
+        <classShapeMoniker Id="0a00d15b-b081-4920-bd21-d70572d288b0" />
+        <classShapeMoniker Id="b37793d1-cc87-4783-8bd4-b1838074d764" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
